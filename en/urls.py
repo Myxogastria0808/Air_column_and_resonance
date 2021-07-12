@@ -10,4 +10,3 @@ urlpatterns = [
     path('purpose/preparation/method/result/discussion/', DiscussionView.as_view()),
     path('purpose/preparation/method/result/discussion/reference/', ReferenceView.as_view()),
 ]
-#leave these links
