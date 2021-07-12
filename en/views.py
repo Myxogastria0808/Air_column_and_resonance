@@ -19,4 +19,4 @@ class DiscussionView(TemplateView):
     template_name = "discussion.html"
 
 class ReferenceView(TemplateView):
-    template_name = "reference.html"
+    template_name = "Reference.html"
